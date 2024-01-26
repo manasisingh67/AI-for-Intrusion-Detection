@@ -177,5 +177,3 @@ Simone Guarino, Luca Faramondi, Roberto Setola, Francesco Flammini, May 4, 2021,
 T. Sowmya, E.A. Mary Anita, A comprehensive review of AI based intrusion detection system, Measurement: Sensors, Volume 28, 2023, 100827, ISSN 2665-9174, https://doi.org/10.1016/j.measen.2023.100827.
 Vanin, P., Newe, T., Dhirani, L.L., O’Connell, E., O’Shea, D., Lee, B., & Rao, M. (2022, December 22). Network Intrusion Detection Systems Using Artificial Intelligence/Machine Learning. In Encyclopedia. https://encyclopedia.pub/entry/39074
 https://adyraj.medium.com/application-of-ai-in-intrusion-detection-system-9705d2efe050
-ChatGPT AI for paraphrasing
-
