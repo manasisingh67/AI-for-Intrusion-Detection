@@ -156,10 +156,6 @@ Conclusion
 
 The capstone project has successfully explored the application of Artificial Intelligence for intrusion detection. By focusing on generative AI and employing supervised machine learning techniques, the project has achieved notable improvements in accuracy and effectiveness. The developed intrusion detection system holds great promise for enhancing cybersecurity in the face of evolving cyber threats. Continued research and development will contribute to further advancements in this critical domain.
 
-Acknowledgements
-
-I extend my sincere gratitude to Professor Kevin Cleary for offering me this valuable opportunity and for providing invaluable guidance and support throughout the duration of this capstone project. I would also like to express my heartfelt thanks to Professor Smith for her support with the capstone deliverables.
-
 References
 
 Fox, G.; Boppana, R.V. Detection of Malicious Network Flows with Low Preprocessing Overhead. Network 2022, 2, 628–642. https://doi.org/10.3390/network2040036 
