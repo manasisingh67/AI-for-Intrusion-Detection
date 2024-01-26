@@ -20,7 +20,7 @@ def visualize_label_distribution(df):
     plt.show()
 
     # Save the countplot as an image file
-    plt.savefig('label_distribution.png')
+    plt.savefig('./output/images/label_distribution.png')
 
     # Add a comment indicating that the countplot image has been saved
     print("Label distribution countplot saved as 'label_distribution.png'")
@@ -59,7 +59,7 @@ def multiclass_pca_projection(df):
     plt.show()
 
     # Save the multiclass PCA plot as an image file
-    plt.savefig('multiclass_pca_projection.png')
+    plt.savefig('./output/images/multiclass_pca_projection.png')
 
     # Add a comment indicating that the multiclass PCA plot image has been saved
     print("Multiclass PCA projection saved as 'multiclass_pca_projection.png'")
@@ -94,7 +94,7 @@ def binary_class_pca_projection(df):
     plt.show()
 
     # Save the binary class PCA plot as an image file
-    plt.savefig('binary_class_pca_projection.png')
+    plt.savefig('./output/images/binary_class_pca_projection.png')
 
     # Add a comment indicating that the binary class PCA plot image has been saved
     print("Binary class PCA projection saved as 'binary_class_pca_projection.png'")
